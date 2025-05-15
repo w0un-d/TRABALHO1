@@ -1,0 +1,22 @@
+/* estilização da borda */
+table {
+    border: 2px solid green;
+    border-collapse: collapse;
+  }
+  
+  td {
+    border: 1px solid green;
+    padding: 5px;
+  }
+
+ /* cor do link */
+a {
+    color: blue;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  
